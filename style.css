@@ -1,0 +1,79 @@
+body{
+    margin:0;
+    font-family: 'Poppins', sans-serif;
+}
+h1{ background-color:whitesmoke;
+    text-align: center;
+    font-size: 40px;
+    color:tomato;
+}
+h2{ color: dimgray;
+    text-align: center;
+    font-size: 40px;
+}
+h4{ margin-top: 90px;
+    text-align: center;
+    color:white;
+    font-size: 15px;
+}
+p{
+    text-align: center;
+    color: dimgray;
+}
+.top-banner{
+    background-color: linear-gradient(45deg,lightsalmon,tomato);
+    background-image: url("images/donation5.jpg");
+    background-repeat: no-repeat;
+}
+section{
+    height:500px;
+    
+}
+.flex-container {
+    display: flex;
+    flex-wrap: nowrap;
+    background-color: rgb(32, 37, 42);
+  }
+.flex-container > div {
+    
+    color: #ffffff;
+    width: 200px;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+  }
+.link-button{
+    margin-left: 535px;
+    width: 50px;
+    text-decoration:none;
+    background-image: linear-gradient(45deg,lightsalmon,tomato);
+    padding:10px;
+    border-radius:5px;
+    color: white;
+    font-weight: 700;
+}
+.plan-area h3{
+    padding-left:20px;
+}
+.plan-area p{
+    text-align: center;
+    
+}
+.plan-area{
+    margin-left: 15px;
+    float: right;
+    box-shadow: 5px 5px 30px gray; 
+    width: 350px;
+    height: 250px;
+    background: rgba(10, 197, 218, 0.1);
+    border-radius: 5px;
+}
+footer{
+    background-color: #000;
+    height: 100px;
+}
+footer p{
+    text-align: center;
+    font-size: 15px;
+}
