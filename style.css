@@ -44,7 +44,7 @@ section{
     font-size: 30px;
   }
 .link-button{
-    margin-left: 535px;
+    margin-left: 480px;
     width: 50px;
     text-decoration:none;
     background-image: linear-gradient(45deg,lightsalmon,tomato);
@@ -61,10 +61,10 @@ section{
     
 }
 .plan-area{
-    margin-left: 15px;
-    float: right;
+    margin-left:5px;
+    float: left;
     box-shadow: 5px 5px 30px gray; 
-    width: 350px;
+    width: 347px;
     height: 250px;
     background: rgba(10, 197, 218, 0.1);
     border-radius: 5px;
